@@ -10,3 +10,5 @@ def importexcel(link, table):
     return print("donées lu")
 
 importexcel('/home/utilisateur/Documents/exel/departments.xlsx', 'departments.xlsx')
+
+#exemple du code que j'ai fait avec departement.
